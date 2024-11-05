@@ -14,7 +14,7 @@ For any odd number (a > 5), there exist prime numbers (b) and (c) such that: [ a
 - (11 = 5 + 3 + 3)
 - (17 = 7 + 5 + 5)
 
-# Discussion 💬
+## Discussion 💬
 While initial examples support this conjecture, further mathematical verification is required to determine if it holds for all odd numbers greater than 5. This conjecture invites mathematicians to explore its validity and potential implications in number theory.
 
 ## Origin 🏫
