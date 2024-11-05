@@ -10,10 +10,11 @@ The weak Goldbach conjecture states that every odd number greater than 5 can be 
 For any odd number (a > 5), there exist prime numbers (b) and (c) such that: [ a = b + c + c ]
 
 ## Examples 🧮
-(7 = 3 + 2 + 2)
-(11 = 5 + 3 + 3)
-(17 = 7 + 5 + 5)
-Discussion 💬
+- (7 = 3 + 2 + 2)
+- (11 = 5 + 3 + 3)
+- (17 = 7 + 5 + 5)
+
+# Discussion 💬
 While initial examples support this conjecture, further mathematical verification is required to determine if it holds for all odd numbers greater than 5. This conjecture invites mathematicians to explore its validity and potential implications in number theory.
 
 ## Origin 🏫
